@@ -7,9 +7,23 @@
 <a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 🧠 About Me
+<h2> 🧠 About Me</h2>
 
-- 🔭 I’m currently working on **TOTVS | Systems Deployment Analyst**
+- 🏢 I’m currently working on **TOTVS | Systems Deployment Analyst**
 - 🌱 I’m currently learning **Full Stack Development**
 - 🎓 Graduated in **Computer Engineering**
 - 📫 E-mail: [mateus.naxx@gmail.com](mailto:mateus.naxx@gmail.com)
+
+  <!--💻-->
+<h2> 🛠 Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+
+<div>
+  <a href="https://github.com/nesantana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnaxx&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusnaxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
